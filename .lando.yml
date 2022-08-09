@@ -1,0 +1,7 @@
+services:
+  myservice:
+    type: php:8.1
+    via: apache
+    xdebug: true
+    webroot: .
+    
