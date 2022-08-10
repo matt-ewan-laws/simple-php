@@ -29,7 +29,7 @@ root/
 
 Set the routes in `routes.php`. [See the router docs](https://phprouter.com) for more information.
 
-## Build (untested)
+## Build
 
 ``` sh
 ./build.sh
